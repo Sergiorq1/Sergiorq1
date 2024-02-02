@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergiorq1
-- 👀 I’m interested in Full-stack dev
-- 🌱 I’m currently learning Flutter and AWS
-- 💞️ I’m looking to collaborate on Open Source Projects or work on projects with other passionate devs
+- 👀 Full-stack dev and cloud
+- 🌱 I’m currently learning AWS and vim
+- 💞️ I’m looking to collaborate on Open Source Projects or work on projects with other passionate devs, hmu
 - 📫 Let's Chat! always looking to meet new people Linkedin: https://www.linkedin.com/in/sergio-rodriguez-quiroz/ 
 
 <!---
