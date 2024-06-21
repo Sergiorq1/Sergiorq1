@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergiorq1
-- 👀 Full-stack dev and cloud
-- 🌱 I’m currently learning AWS and vim
-- 💞️ I’m looking to collaborate on Open Source Projects or work on projects with other passionate devs, hmu
+- 👀 Dev in Cloud and Full-stack
+- 🌱 I’m currently learning AWS, and I provide web services to small businesses and artists
+- 💞️ I’m looking to collaborate on Open Source Projects or work on projects with other passionate devs, contact me
 - 📫 Let's Chat! always looking to meet new people Linkedin: https://www.linkedin.com/in/sergio-rodriguez-quiroz/ 
 
 <!---
